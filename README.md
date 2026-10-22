@@ -14,13 +14,14 @@ Se propone un sistema para una vivienda familiar hipotética ubicada en Tuzamapa
 - No hay conexión automática con CFE ni lectura de medidores.
 - No se analiza el consumo individual de cada aparato.
 - El componente inteligente utiliza una regla sencilla de comparación; no es un modelo avanzado de IA.
-- El prototipo visual se prepara en PowerPoint y consta de cuatro pantallas: panel principal, registro, historial/comparación y análisis/recomendaciones.
+- El prototipo visual está diseñado en PowerPoint y consta de cuatro pantallas: panel principal, registro, historial/comparación y análisis/recomendaciones. El archivo PPTX todavía debe incorporarse al repositorio.
 
 ## Estructura del repositorio
-- `docs/`: [índice de la documentación](docs/README.md), planteamiento, [requerimientos](docs/requerimientos.md), [objetivos y alcance](docs/objetivos-alcance.md), [componente inteligente](docs/componente-inteligente.md), [prototipo](docs/prototipo.md), control de versiones y gestión de riesgos.
-- `docs/diagramas/`: diagramas aprobados (pendiente incorporar PNG/SVG).
-- `prototipo/`: archivo PowerPoint aprobado de cuatro pantallas (pendiente incorporar el PPTX).
-- `evidencias/`: capturas del tablero, historial de commits, revisiones y validación (pendientes de recopilar).
+- `docs/`: [índice de la documentación](docs/README.md), [planteamiento del problema](docs/problema-contexto.md), [requerimientos](docs/requerimientos.md), [objetivos y alcance](docs/objetivos-alcance.md), [componente inteligente](docs/componente-inteligente.md), [prototipo](docs/prototipo.md), [control de versiones](docs/control-versiones.md) y [validación preliminar](docs/validacion.md).
+- `docs/diagramas/`: los [cuatro diagramas en formato SVG](docs/diagramas/README.md) (casos de uso, flujo de actividades, arquitectura conceptual y DFD nivel 1).
+- `docs/gestion/`: [riesgos](docs/gestion/riesgos.md) y [tablero de tareas](docs/gestion/tablero-tareas.md).
+- `prototipo/`: carpeta prevista para el archivo PowerPoint de las cuatro pantallas; el diseño ya está terminado, pero el archivo aún debe subirse aquí.
+- `evidencias/`: índice de evidencias previstas y referencia de una actividad previa. Las capturas propias del proyecto actual aún deben reunirse.
 
 ## Tablero de gestión
 Tablero GitHub Projects: https://github.com/users/Encorser/projects/1/views/1
@@ -28,4 +29,4 @@ Tablero GitHub Projects: https://github.com/users/Encorser/projects/1/views/1
 La lista de tareas se documenta en [docs/gestion/tablero-tareas.md](docs/gestion/tablero-tareas.md). Las tareas se administran mediante incidencias asociadas a este repositorio.
 
 ## Nota académica
-El escenario y los datos de ejemplo del prototipo son hipotéticos. El sistema no consulta ni modifica información real de CFE.
+El escenario y los datos de ejemplo del prototipo son hipotéticos. El sistema no consulta ni modifica información real de CFE. Las evidencias de una actividad anterior se conservan como referencia y no sustituyen las capturas del proyecto actual.
