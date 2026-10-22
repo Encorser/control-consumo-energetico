@@ -27,9 +27,9 @@ La guía de la materia limita el tablero a un máximo de 10 tareas. Se definiero
 - T02: tres requerimientos funcionales, dos no funcionales, tres de datos y la regla de análisis documentados.
 - T03: un objetivo general, dos específicos y alcance definido.
 - T04: casos de uso, actividades, arquitectura conceptual y DFD nivel 1 consistentes.
-- T05: prototipo visual de cuatro pantallas diseñado en PowerPoint. El archivo está entregado en la conversación; falta incorporarlo como archivo binario al repositorio.
+- T05: prototipo visual de cuatro pantallas diseñado en PowerPoint; el archivo ya está incorporado en [`prototipo/`](../prototipo/README.md).
 - T06: exactamente tres riesgos documentados con probabilidad, impacto y medidas preventivas en [riesgos.md](riesgos.md).
-- T07: estructura del repositorio y documentación creadas; los cuatro diagramas ya están incorporados como SVG en [docs/diagramas](../diagramas/README.md). Falta subir el archivo PowerPoint a la carpeta prototipo/ y guardar las capturas de evidencia. El historial actual ya supera cinco commits.
+- T07: estructura del repositorio y documentación creadas; los cuatro diagramas están en [docs/diagramas](../diagramas/README.md) y el PowerPoint ya se encuentra en `prototipo/`. Falta guardar las capturas propias de evidencia del repositorio, del tablero y del historial de commits. El historial actual supera cinco commits.
 - T08: documento de 15–20 páginas con evidencias y presentación de 5–7 minutos.
 
 ## Tablero GitHub Projects
