@@ -29,7 +29,7 @@ El historial completo se puede consultar en [Commits del repositorio](https://gi
 ## Estado de artefactos
 - **Diagramas:** los cuatro diagramas se incorporaron como SVG vectoriales en [docs/diagramas](diagramas/README.md).
 - **Prototipo:** el PowerPoint de cuatro pantallas está incorporado en [prototipo/](../prototipo/README.md).
-- **Capturas de evidencia:** ya se revisaron seis capturas del repositorio actual y se prepararon con nombres E01–E06 en un paquete descargable. El índice de la carpeta [evidencias/](../evidencias/README.md) está actualizado; falta subir esos seis archivos JPG a GitHub y verificar que aparezcan en la carpeta.
+- **Capturas de evidencia:** seis capturas del repositorio actual ya están presentes en [evidencias/](../evidencias/README.md) y se enlazan como E01–E06.
 
 ## Criterio para futuros cambios
 Cada cambio significativo deberá guardarse con un mensaje de commit claro que describa lo modificado, por ejemplo: actualización de requerimientos, alcance, diagramas, prototipo o versión final del documento.
