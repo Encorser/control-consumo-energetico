@@ -14,13 +14,13 @@ Se propone un sistema para una vivienda familiar hipotética ubicada en Tuzamapa
 - No hay conexión automática con CFE ni lectura de medidores.
 - No se analiza el consumo individual de cada aparato.
 - El componente inteligente utiliza una regla sencilla de comparación; no es un modelo avanzado de IA.
-- El prototipo visual está diseñado en PowerPoint y consta de cuatro pantallas: panel principal, registro, historial/comparación y análisis/recomendaciones. El archivo PPTX todavía debe incorporarse al repositorio.
+- El prototipo visual está diseñado en PowerPoint y consta de cuatro pantallas: panel principal, registro, historial/comparación y análisis/recomendaciones. El archivo ya está incorporado en la carpeta `prototipo/`.
 
 ## Estructura del repositorio
 - `docs/`: [índice de la documentación](docs/README.md), [planteamiento del problema](docs/problema-contexto.md), [requerimientos](docs/requerimientos.md), [objetivos y alcance](docs/objetivos-alcance.md), [componente inteligente](docs/componente-inteligente.md), [prototipo](docs/prototipo.md), [control de versiones](docs/control-versiones.md) y [validación preliminar](docs/validacion.md).
 - `docs/diagramas/`: los [cuatro diagramas en formato SVG](docs/diagramas/README.md) (casos de uso, flujo de actividades, arquitectura conceptual y DFD nivel 1).
 - `docs/gestion/`: [riesgos](docs/gestion/riesgos.md) y [tablero de tareas](docs/gestion/tablero-tareas.md).
-- `prototipo/`: carpeta prevista para el archivo PowerPoint de las cuatro pantallas; el diseño ya está terminado, pero el archivo aún debe subirse aquí.
+- `prototipo/`: [PowerPoint de cuatro pantallas](prototipo/(Presentacion)%20prototipo_control_consumo_energetico.pptx).
 - `evidencias/`: índice de evidencias previstas y referencia de una actividad previa. Las capturas propias del proyecto actual aún deben reunirse.
 
 ## Tablero de gestión
