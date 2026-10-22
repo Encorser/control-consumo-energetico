@@ -1,6 +1,8 @@
 # Prototipo visual
 
-El prototipo visual de cuatro pantallas ya está diseñado y el PowerPoint está disponible como archivo entregado en la conversación.
+El prototipo visual de cuatro pantallas está diseñado y **el archivo PowerPoint ya está incorporado en esta carpeta**.
+
+[**Abrir o descargar el PowerPoint de cuatro pantallas**](%28Presentacion%29%20prototipo_control_consumo_energetico.pptx)
 
 ## Pantallas incluidas
 1. Panel principal.
@@ -11,4 +13,6 @@ El prototipo visual de cuatro pantallas ya está diseñado y el PowerPoint está
 Los datos mostrados son hipotéticos. El prototipo no tiene conexión automática con CFE ni necesita ser funcional para cumplir el alcance académico.
 
 ## Estado de entrega
-La carpeta de GitHub todavía necesita recibir el archivo `.pptx`. Una vez incorporado, actualizar este README con su nombre y guardar una captura en `evidencias/`.
+- [x] Diseño de cuatro pantallas terminado.
+- [x] Archivo PowerPoint incorporado al repositorio.
+- [ ] Captura de evidencia del PowerPoint en GitHub y/o de la vista general de las cuatro pantallas guardada en `evidencias/`.
