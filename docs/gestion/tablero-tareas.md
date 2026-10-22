@@ -19,7 +19,7 @@ La guía de la materia limita el tablero a un máximo de 10 tareas. Se definiero
 | T04 | Adaptar y revisar los cuatro diagramas | Done | Alta | [#4](https://github.com/Encorser/control-consumo-energetico/issues/4) |
 | T05 | Diseñar prototipo de cuatro pantallas | Done | Alta | [#5](https://github.com/Encorser/control-consumo-energetico/issues/5) |
 | T06 | Identificar y documentar tres riesgos | Done | Media | [#6](https://github.com/Encorser/control-consumo-energetico/issues/6) |
-| T07 | Organizar repositorio y evidencias | Todo | Alta | [#7](https://github.com/Encorser/control-consumo-energetico/issues/7) |
+| T07 | Organizar repositorio y evidencias | In progress | Alta | [#7](https://github.com/Encorser/control-consumo-energetico/issues/7) |
 | T08 | Integrar documento y presentación final | Todo | Alta | [#8](https://github.com/Encorser/control-consumo-energetico/issues/8) |
 
 ## Criterios de aceptación principales
@@ -29,7 +29,7 @@ La guía de la materia limita el tablero a un máximo de 10 tareas. Se definiero
 - T04: casos de uso, actividades, arquitectura conceptual y DFD nivel 1 consistentes.
 - T05: cuatro pantallas del prototipo visual en PowerPoint.
 - T06: exactamente tres riesgos documentados con probabilidad, impacto y medidas preventivas en [riesgos.md](riesgos.md).
-- T07: README, estructura de carpetas, artefactos y al menos cinco commits significativos.
+- T07: README y borradores de documentación ya organizados; falta incorporar los diagramas, PowerPoint y capturas de evidencia; el historial actual ya supera cinco commits.
 - T08: documento de 15–20 páginas con evidencias y presentación de 5–7 minutos.
 
 ## Tablero GitHub Projects
