@@ -21,7 +21,7 @@ Se propone un sistema para una vivienda familiar hipotética ubicada en Tuzamapa
 - `docs/diagramas/`: los [cuatro diagramas en formato SVG](docs/diagramas/README.md) (casos de uso, flujo de actividades, arquitectura conceptual y DFD nivel 1).
 - `docs/gestion/`: [riesgos](docs/gestion/riesgos.md) y [tablero de tareas](docs/gestion/tablero-tareas.md).
 - `prototipo/`: [PowerPoint de cuatro pantallas](prototipo/(Presentacion)%20prototipo_control_consumo_energetico.pptx).
-- `evidencias/`: índice de evidencias previstas y referencia de una actividad previa. Las capturas propias del proyecto actual aún deben reunirse.
+- `evidencias/`: [índice de las seis capturas del proyecto actual](evidencias/README.md) y referencia de una actividad previa claramente identificada.
 
 ## Tablero de gestión
 Tablero GitHub Projects: https://github.com/users/Encorser/projects/1/views/1
