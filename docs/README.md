@@ -14,11 +14,11 @@ Proyecto académico: **Control de consumo energético enfocado a una casa habita
 - [Tablero de tareas](gestion/tablero-tareas.md)
 
 ## Diagramas
-Los cuatro diagramas revisados ya están incorporados como archivos SVG vectoriales en [docs/diagramas](diagramas/README.md): casos de uso, flujo de actividades, arquitectura conceptual y DFD de nivel 1. Desde el índice de esa carpeta se pueden consultar y abrir por separado.
+Los cuatro diagramas revisados ya están incorporados como archivos SVG vectoriales en [docs/diagramas](diagramas/README.md): casos de uso, flujo de actividades, arquitectura conceptual y DFD de nivel 1.
 
 ## Evidencias
 - [Evidencias de referencia de Actividad 6 anterior](evidencias-referencia-actividad-6.md): material complementario, no evidencia directa del proyecto actual.
-- [Índice de la carpeta evidencias](../evidencias/README.md): describe las capturas propias que aún debemos reunir.
+- [Índice de evidencias del proyecto actual](../evidencias/README.md): incluye los nombres y la descripción de seis capturas que ya se revisaron y prepararon para subir. Los JPG todavía deben incorporarse a GitHub mediante Upload files.
 
 ## Estado
-Los textos son borradores de trabajo acordados durante la conversación y deben revisarse antes de consolidarse en el documento integrador final. El prototipo visual está diseñado y su archivo PowerPoint ya está incorporado en el repositorio. Las capturas de evidencia del repositorio actual aún deben reunirse.
+El prototipo visual está diseñado y su PowerPoint ya está incorporado en el repositorio. Los cuatro diagramas también están incorporados. Las capturas actuales se han preparado en un paquete descargable y el índice está listo; falta subir los JPG a la carpeta evidencias/.
