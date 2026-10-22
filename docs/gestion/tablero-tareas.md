@@ -19,7 +19,7 @@ La guía de la materia limita el tablero a un máximo de 10 tareas. Se definiero
 | T04 | Adaptar y revisar los cuatro diagramas | Done | Alta | [#4](https://github.com/Encorser/control-consumo-energetico/issues/4) |
 | T05 | Diseñar prototipo de cuatro pantallas | Done | Alta | [#5](https://github.com/Encorser/control-consumo-energetico/issues/5) |
 | T06 | Identificar y documentar tres riesgos | Done | Media | [#6](https://github.com/Encorser/control-consumo-energetico/issues/6) |
-| T07 | Organizar repositorio y evidencias | In progress | Alta | [#7](https://github.com/Encorser/control-consumo-energetico/issues/7) |
+| T07 | Organizar repositorio y evidencias | Done | Alta | [#7](https://github.com/Encorser/control-consumo-energetico/issues/7) |
 | T08 | Integrar documento y presentación final | Todo | Alta | [#8](https://github.com/Encorser/control-consumo-energetico/issues/8) |
 
 ## Criterios de aceptación principales
@@ -27,9 +27,9 @@ La guía de la materia limita el tablero a un máximo de 10 tareas. Se definiero
 - T02: tres requerimientos funcionales, dos no funcionales, tres de datos y la regla de análisis documentados.
 - T03: un objetivo general, dos específicos y alcance definido.
 - T04: casos de uso, actividades, arquitectura conceptual y DFD nivel 1 consistentes.
-- T05: prototipo visual de cuatro pantallas diseñado en PowerPoint; el archivo ya está incorporado en [`prototipo/`](../prototipo/README.md).
+- T05: prototipo visual de cuatro pantallas diseñado en PowerPoint; el archivo está incorporado en [`prototipo/`](../prototipo/README.md).
 - T06: exactamente tres riesgos documentados con probabilidad, impacto y medidas preventivas en [riesgos.md](riesgos.md).
-- T07: estructura del repositorio y documentación creadas; los cuatro diagramas están en [docs/diagramas](../diagramas/README.md) y el PowerPoint ya se encuentra en `prototipo/`. Falta guardar las capturas propias de evidencia del repositorio, del tablero y del historial de commits. El historial actual supera cinco commits.
+- T07: repositorio organizado, cuatro diagramas incorporados, PowerPoint presente en `prototipo/` y seis capturas del proyecto actual enlazadas desde [evidencias/](../evidencias/README.md). El historial tiene más de cinco commits.
 - T08: documento de 15–20 páginas con evidencias y presentación de 5–7 minutos.
 
 ## Tablero GitHub Projects
