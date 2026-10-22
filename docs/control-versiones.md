@@ -34,8 +34,8 @@ El historial completo se puede consultar en [Commits del repositorio](https://gi
 
 ## Estado de artefactos
 - **Diagramas:** los cuatro diagramas se incorporaron como SVG vectoriales en [docs/diagramas](diagramas/README.md).
-- **Prototipo:** el PowerPoint de cuatro pantallas ya está diseñado y entregado en la conversación. Para finalizar la organización del repositorio, aún se debe incorporar el archivo .pptx a `prototipo/`.
-- **Evidencias:** guardar capturas del tablero, del prototipo y del historial de commits en `evidencias/`.
+- **Prototipo:** el PowerPoint de cuatro pantallas está incorporado en [`prototipo/`](../prototipo/README.md).
+- **Evidencias:** guardar capturas del repositorio, carpeta de prototipo, tablero e historial de commits en `evidencias/`.
 
 ## Criterio para futuros cambios
 Cada cambio significativo deberá guardarse con un mensaje de commit claro que describa lo modificado, por ejemplo: definición de requerimientos, actualización de alcance, integración de diagramas o entrega final del documento.
