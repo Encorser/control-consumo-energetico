@@ -1,8 +1,8 @@
 # 4. Prototipo
 
-**Estado del diseño:** realizado. El archivo PowerPoint de cuatro pantallas está disponible como entregable de esta conversación y fue revisado para confirmar que contiene las pantallas descritas a continuación.
+**Estado del diseño:** realizado. El archivo PowerPoint de cuatro pantallas está incorporado al repositorio en la carpeta `prototipo/` y se revisó su contenido para confirmar que corresponde a las pantallas descritas a continuación.
 
-**Estado de incorporación al repositorio:** pendiente. Para que el punto 6 de control de versiones quede completo, aún debe copiarse el archivo .pptx a la carpeta prototipo/ de GitHub y guardarse la evidencia correspondiente.
+**Archivo del prototipo:** [`(Presentacion) prototipo_control_consumo_energetico.pptx`](../prototipo/%28Presentacion%29%20prototipo_control_consumo_energetico.pptx).
 
 El prototipo tiene finalidad demostrativa y no necesita conectarse con una base de datos real ni con CFE.
 
@@ -37,6 +37,6 @@ El prototipo tiene finalidad demostrativa y no necesita conectarse con una base 
 ## Datos demostrativos
 Las cifras del prototipo son hipotéticas. Se muestran solo para ilustrar las pantallas y deben etiquetarse como ejemplos, no como datos reales de CFE.
 
-## Pendientes de entrega en GitHub
-- Incorporar el archivo PowerPoint de cuatro pantallas a la carpeta `prototipo/`.
-- Guardar la captura de las cuatro pantallas o de su presentación en la carpeta `evidencias/`.
+## Evidencias pendientes
+- Guardar una captura de la carpeta `prototipo/` en GitHub donde se vea el archivo PPTX.
+- Guardar una captura de vista general de las cuatro pantallas, por ejemplo, el panel de miniaturas de PowerPoint.
