@@ -8,6 +8,7 @@ Proyecto académico: **Control de consumo energético enfocado a una casa habita
 - [2. Objetivos y alcance](objetivos-alcance.md)
 - [3. Componente inteligente](componente-inteligente.md)
 - [4. Prototipo](prototipo.md)
+- [10. Validación (estado preliminar)](validacion.md)
 - [6. Control de versiones](control-versiones.md)
 - [Gestión de riesgos](gestion/riesgos.md)
 - [Tablero de tareas](gestion/tablero-tareas.md)
