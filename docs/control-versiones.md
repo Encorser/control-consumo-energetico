@@ -36,6 +36,7 @@ El historial completo se puede consultar en [Commits del repositorio](https://gi
 Cada cambio significativo deberá guardarse con un mensaje de commit claro que describa lo modificado, por ejemplo: definición de requerimientos, actualización de alcance, integración de diagramas o entrega final del documento.
 
 ## Evidencias pendientes
-- Copiar los cuatro diagramas aprobados (PNG y/o SVG) a docs/diagramas/.
+- Los cuatro diagramas ya están incorporados como SVG vectoriales en [docs/diagramas](diagramas/README.md).
+- Opcional: añadir también las versiones PNG de alta resolución para facilitar su inserción en documentos sin herramientas vectoriales.
 - Copiar el PowerPoint de cuatro pantallas a prototipo/.
 - Guardar capturas del tablero y del historial de commits en evidencias/.
