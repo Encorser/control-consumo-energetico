@@ -17,9 +17,10 @@ Se propone un sistema para una vivienda familiar hipotética ubicada en Tuzamapa
 - El prototipo visual se prepara en PowerPoint y consta de cuatro pantallas: panel principal, registro, historial/comparación y análisis/recomendaciones.
 
 ## Estructura del repositorio
-- `docs/`: documentación del proyecto, requerimientos, diagramas y gestión.
-- `prototipo/`: prototipo visual de PowerPoint y materiales relacionados.
-- `evidencias/`: capturas del tablero, historial de commits, revisiones y validación.
+- `docs/`: [índice de la documentación](docs/README.md), planteamiento, [requerimientos](docs/requerimientos.md), [objetivos y alcance](docs/objetivos-alcance.md), [componente inteligente](docs/componente-inteligente.md), [prototipo](docs/prototipo.md), control de versiones y gestión de riesgos.
+- `docs/diagramas/`: diagramas aprobados (pendiente incorporar PNG/SVG).
+- `prototipo/`: archivo PowerPoint aprobado de cuatro pantallas (pendiente incorporar el PPTX).
+- `evidencias/`: capturas del tablero, historial de commits, revisiones y validación (pendientes de recopilar).
 
 ## Tablero de gestión
 Tablero GitHub Projects: https://github.com/users/Encorser/projects/1/views/1
