@@ -32,11 +32,10 @@ El historial revisado del repositorio contiene más de cinco commits con mensaje
 
 El historial completo se puede consultar en [Commits del repositorio](https://github.com/Encorser/control-consumo-energetico/commits/main/).
 
+## Estado de artefactos
+- **Diagramas:** los cuatro diagramas se incorporaron como SVG vectoriales en [docs/diagramas](diagramas/README.md).
+- **Prototipo:** el PowerPoint de cuatro pantallas ya está diseñado y entregado en la conversación. Para finalizar la organización del repositorio, aún se debe incorporar el archivo .pptx a `prototipo/`.
+- **Evidencias:** guardar capturas del tablero, del prototipo y del historial de commits en `evidencias/`.
+
 ## Criterio para futuros cambios
 Cada cambio significativo deberá guardarse con un mensaje de commit claro que describa lo modificado, por ejemplo: definición de requerimientos, actualización de alcance, integración de diagramas o entrega final del documento.
-
-## Evidencias pendientes
-- Los cuatro diagramas ya están incorporados como SVG vectoriales en [docs/diagramas](diagramas/README.md).
-- Opcional: añadir también las versiones PNG de alta resolución para facilitar su inserción en documentos sin herramientas vectoriales.
-- Copiar el PowerPoint de cuatro pantallas a prototipo/.
-- Guardar capturas del tablero y del historial de commits en evidencias/.
