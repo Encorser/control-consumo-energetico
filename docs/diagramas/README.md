@@ -35,4 +35,4 @@ Se incorporan los cuatro diagramas revisados del proyecto. Los archivos están e
 - Si no hay un periodo anterior, el sistema informa que no existe historial suficiente para comparar.
 - Máximo tres grupos de información: recibos de CFE, resultados del análisis y recomendaciones.
 
-Los diagramas quedan incorporados como archivos editables en formato SVG. Las versiones PNG de alta resolución y el PowerPoint del prototipo se mantienen como evidencias por integrar en sus respectivas carpetas.
+Los cuatro diagramas ya están incorporados al repositorio como archivos SVG vectoriales. Las versiones PNG son opcionales. El archivo PowerPoint del prototipo pertenece a la carpeta `prototipo/` y todavía debe subirse allí; no forma parte de esta carpeta.
