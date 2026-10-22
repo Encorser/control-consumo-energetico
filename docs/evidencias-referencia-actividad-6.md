@@ -6,7 +6,7 @@ Se cuenta con un paquete de capturas de una actividad previa de práctica básic
 
 ## Material disponible
 
-El archivo depurado evidencias_actividad6_referencia_sin_codigos.zip contiene capturas y el PDF de la práctica anterior. El archivo original github-recovery-codes.txt se excluyó por seguridad.
+El archivo depurado evidencias_actividad6_referencia_sin_codigos.zip contiene capturas y el PDF de la práctica anterior. También se preparó un anexo visual de nueve páginas (portada y ocho capturas) llamado anexo_evidencias_referencia_actividad6.pdf. Ambos artefactos están disponibles en la conversación para descarga; todavía no se han subido como binarios a GitHub. El archivo original github-recovery-codes.txt se excluyó por seguridad.
 
 | Captura de la actividad anterior | Uso permitido en el proyecto actual |
 |---|---|
