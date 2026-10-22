@@ -2,27 +2,37 @@
 
 Proyecto: **Control de consumo energético enfocado a una casa habitación**
 
-Este archivo documenta la propuesta inicial del tablero GitHub Projects. La guía de la materia limita el tablero a un máximo de 10 tareas; se proponen 8.
+La guía de la materia limita el tablero a un máximo de 10 tareas. Se definieron 8 tareas y cada una ya está creada como una incidencia (issue) en el repositorio.
 
 ## Estados propuestos
-
 - **Todo:** pendiente de iniciar.
 - **In progress:** en desarrollo o revisión.
-- **Done:** actividad terminada según el avance actual de la conversación. Estos estados son iniciales y deben mantenerse actualizados por el estudiante.
+- **Done:** actividad completada según el avance documentado. En GitHub se cerraron las incidencias T03, T04 y T05.
 
-## Tareas
+## Tareas creadas
 
-| ID | Tarea | Estado inicial | Prioridad | Descripción |
+| ID | Tarea | Estado propuesto | Prioridad | Incidencia |
 |---|---|---|---|---|
-| T01 | Definir problema y contexto | In progress | Alta | Documentar contexto hipotético, problema, usuario, necesidad y justificación. |
-| T02 | Consolidar requerimientos y componente inteligente | In progress | Alta | Documentar RF01–RF03, RNF01–RNF02, RD01–RD03 y la regla que genera recomendaciones ante cualquier incremento de consumo. |
-| T03 | Definir objetivos y alcance | Done | Alta | Establecer objetivo general, dos objetivos específicos y funciones incluidas/excluidas. |
-| T04 | Adaptar y revisar los cuatro diagramas | Done | Alta | Casos de uso, actividades, arquitectura conceptual y DFD nivel 1. |
-| T05 | Diseñar prototipo de cuatro pantallas | Done | Alta | Elaborar en PowerPoint panel principal, registro de recibo, historial/comparación y análisis/recomendaciones. |
-| T06 | Identificar y documentar tres riesgos | Todo | Media | Precisar captura incorrecta, historial insuficiente para comparar y retrasos de diseño/documentación; definir respuestas. |
-| T07 | Organizar repositorio y evidencias | Todo | Alta | Mantener README, documentación, prototipo y evidencias; registrar cambios mediante commits. |
-| T08 | Integrar documento y presentación final | Todo | Alta | Integrar el documento de 15–20 páginas con evidencias y preparar una exposición de 5–7 minutos. |
+| T01 | Definir problema y contexto | In progress | Alta | [#1](https://github.com/Encorser/control-consumo-energetico/issues/1) |
+| T02 | Consolidar requerimientos y componente inteligente | In progress | Alta | [#2](https://github.com/Encorser/control-consumo-energetico/issues/2) |
+| T03 | Definir objetivos y alcance | Done | Alta | [#3](https://github.com/Encorser/control-consumo-energetico/issues/3) |
+| T04 | Adaptar y revisar los cuatro diagramas | Done | Alta | [#4](https://github.com/Encorser/control-consumo-energetico/issues/4) |
+| T05 | Diseñar prototipo de cuatro pantallas | Done | Alta | [#5](https://github.com/Encorser/control-consumo-energetico/issues/5) |
+| T06 | Identificar y documentar tres riesgos | Todo | Media | [#6](https://github.com/Encorser/control-consumo-energetico/issues/6) |
+| T07 | Organizar repositorio y evidencias | Todo | Alta | [#7](https://github.com/Encorser/control-consumo-energetico/issues/7) |
+| T08 | Integrar documento y presentación final | Todo | Alta | [#8](https://github.com/Encorser/control-consumo-energetico/issues/8) |
 
-## Nota importante
+## Criterios de aceptación principales
+- T01: problema, contexto, usuario, necesidad y justificación documentados.
+- T02: tres requerimientos funcionales, dos no funcionales, tres de datos y la regla de análisis documentados.
+- T03: un objetivo general, dos específicos y alcance definido.
+- T04: casos de uso, actividades, arquitectura conceptual y DFD nivel 1 consistentes.
+- T05: cuatro pantallas del prototipo visual en PowerPoint.
+- T06: exactamente tres riesgos con probabilidad, impacto y mitigación.
+- T07: README, estructura de carpetas, artefactos y al menos cinco commits significativos.
+- T08: documento de 15–20 páginas con evidencias y presentación de 5–7 minutos.
 
-Este documento no crea automáticamente elementos en GitHub Projects. Es la lista base para crear las ocho tareas y asignarles los estados indicados en el tablero web. Los estados son propuestas de seguimiento y deben verificarse con los artefactos efectivamente terminados.
+## Tablero GitHub Projects
+Proyecto: https://github.com/users/Encorser/projects/1/views/1
+
+Las incidencias ya existen en el repositorio. Si no aparecen automáticamente en la vista del proyecto, agrégalas usando **Add item** en GitHub Projects y busca las incidencias #1–#8 del repositorio `Encorser/control-consumo-energetico`.
