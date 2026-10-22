@@ -21,4 +21,4 @@ Los cuatro diagramas revisados ya están incorporados como archivos SVG vectoria
 - [Índice de la carpeta evidencias](../evidencias/README.md): describe las capturas propias que aún debemos reunir.
 
 ## Estado
-Los textos son borradores de trabajo acordados durante la conversación y deben revisarse antes de consolidarse en el documento integrador final. El prototipo visual ya está diseñado; falta incorporar su archivo PowerPoint a GitHub. Las capturas de evidencia del repositorio actual aún deben reunirse.
+Los textos son borradores de trabajo acordados durante la conversación y deben revisarse antes de consolidarse en el documento integrador final. El prototipo visual está diseñado y su archivo PowerPoint ya está incorporado en el repositorio. Las capturas de evidencia del repositorio actual aún deben reunirse.
