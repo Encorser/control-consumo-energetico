@@ -18,7 +18,7 @@ Los cuatro diagramas revisados ya están incorporados como archivos SVG vectoria
 
 ## Evidencias
 - [Evidencias de referencia de Actividad 6 anterior](evidencias-referencia-actividad-6.md): material complementario, no evidencia directa del proyecto actual.
-- [Índice de evidencias del proyecto actual](../evidencias/README.md): incluye los nombres y la descripción de seis capturas que ya se revisaron y prepararon para subir. Los JPG todavía deben incorporarse a GitHub mediante Upload files.
+- [Índice de evidencias del proyecto actual](../evidencias/README.md): las seis capturas E01–E06 ya están presentes en `evidencias/` y enlazadas desde el índice.
 
 ## Estado
-El prototipo visual está diseñado y su PowerPoint ya está incorporado en el repositorio. Los cuatro diagramas también están incorporados. Las capturas actuales se han preparado en un paquete descargable y el índice está listo; falta subir los JPG a la carpeta evidencias/.
+El prototipo visual y los cuatro diagramas están incorporados en el repositorio. Las capturas del repositorio actual, los diagramas, el archivo PowerPoint y el tablero también están almacenadas en `evidencias/`. La validación formal y las mejoras posteriores continúan pendientes hasta realizar la revisión con el grupo/docente.
