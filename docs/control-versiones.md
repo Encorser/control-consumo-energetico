@@ -5,7 +5,7 @@
 - **Rama principal:** main
 - **Tablero de gestión:** [GitHub Projects](https://github.com/users/Encorser/projects/1/views/1)
 
-## Estructura prevista
+## Estructura del repositorio
 
     control-consumo-energetico/
     ├── docs/
@@ -22,20 +22,14 @@
     └── README.md
 
 ## Historial de commits
-El historial revisado del repositorio contiene más de cinco commits con mensajes que describen cambios específicos. Entre ellos:
-
-1. Initial commit
-2. docs: ampliar README del proyecto energético
-3. docs: vincular tareas con incidencias de GitHub Projects
-4. docs: documentar riesgos del proyecto
-5. docs: actualizar estado de riesgos y tablero
+El historial revisado del repositorio supera el mínimo de cinco commits solicitado por la guía, con mensajes que describen cambios específicos.
 
 El historial completo se puede consultar en [Commits del repositorio](https://github.com/Encorser/control-consumo-energetico/commits/main/).
 
 ## Estado de artefactos
 - **Diagramas:** los cuatro diagramas se incorporaron como SVG vectoriales en [docs/diagramas](diagramas/README.md).
-- **Prototipo:** el PowerPoint de cuatro pantallas está incorporado en [`prototipo/`](../prototipo/README.md).
-- **Evidencias:** guardar capturas del repositorio, carpeta de prototipo, tablero e historial de commits en `evidencias/`.
+- **Prototipo:** el PowerPoint de cuatro pantallas está incorporado en [prototipo/](../prototipo/README.md).
+- **Capturas de evidencia:** ya se revisaron seis capturas del repositorio actual y se prepararon con nombres E01–E06 en un paquete descargable. El índice de la carpeta [evidencias/](../evidencias/README.md) está actualizado; falta subir esos seis archivos JPG a GitHub y verificar que aparezcan en la carpeta.
 
 ## Criterio para futuros cambios
-Cada cambio significativo deberá guardarse con un mensaje de commit claro que describa lo modificado, por ejemplo: definición de requerimientos, actualización de alcance, integración de diagramas o entrega final del documento.
+Cada cambio significativo deberá guardarse con un mensaje de commit claro que describa lo modificado, por ejemplo: actualización de requerimientos, alcance, diagramas, prototipo o versión final del documento.
