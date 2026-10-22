@@ -1,6 +1,10 @@
 # 4. Prototipo
 
-El prototipo se realizará en Microsoft PowerPoint. Cada una de las cuatro pantallas ocupa una diapositiva con apariencia de interfaz de aplicación. El prototipo tiene finalidad demostrativa y no necesita conectarse con una base de datos real ni con CFE.
+**Estado del diseño:** realizado. El archivo PowerPoint de cuatro pantallas está disponible como entregable de esta conversación y fue revisado para confirmar que contiene las pantallas descritas a continuación.
+
+**Estado de incorporación al repositorio:** pendiente. Para que el punto 6 de control de versiones quede completo, aún debe copiarse el archivo .pptx a la carpeta prototipo/ de GitHub y guardarse la evidencia correspondiente.
+
+El prototipo tiene finalidad demostrativa y no necesita conectarse con una base de datos real ni con CFE.
 
 ## Pantalla 1. Panel principal
 **Objetivo:** presentar un resumen del consumo eléctrico registrado y facilitar el acceso a las funciones del sistema.
@@ -33,4 +37,6 @@ El prototipo se realizará en Microsoft PowerPoint. Cada una de las cuatro panta
 ## Datos demostrativos
 Las cifras del prototipo son hipotéticas. Se muestran solo para ilustrar las pantallas y deben etiquetarse como ejemplos, no como datos reales de CFE.
 
-> El archivo PowerPoint aprobado y las exportaciones PNG aún deben copiarse a la carpeta prototipo/ del repositorio para completar las evidencias.
+## Pendientes de entrega en GitHub
+- Incorporar el archivo PowerPoint de cuatro pantallas a la carpeta `prototipo/`.
+- Guardar la captura de las cuatro pantallas o de su presentación en la carpeta `evidencias/`.
