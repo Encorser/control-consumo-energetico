@@ -2,30 +2,27 @@
 
 Proyecto: **Control de consumo energético enfocado a una casa habitación**.
 
-## Capturas seleccionadas para incorporar
+## Capturas del proyecto actual
 
-Se revisaron seis capturas del repositorio y tablero actuales. Ya están preparadas con los nombres siguientes en un paquete descargable de la conversación, pero sus archivos JPG todavía deben subirse a esta carpeta mediante GitHub.
+Se verificó que las seis capturas aparecen dentro de esta carpeta del repositorio. GitHub conservó sus nombres originales, por eso el índice las identifica como E01–E06 aunque los archivos tengan nombres automáticos.
 
-| ID / nombre de archivo | Evidencia | Contenido |
+| ID | Evidencia | Archivo almacenado |
 |---|---|---|
-| `E01_repositorio.jpg` | Repositorio principal | Página principal, carpetas y README. |
-| `E02_documentacion.jpg` | Documentación | Organización de archivos dentro de `docs/`. |
-| `E03_historial_commits.jpg` | Historial de commits | Registro de cambios del repositorio. |
-| `E04_diagramas.jpg` | Diagramas del sistema | Índice y vista de un diagrama. |
-| `E05_prototipo_github.jpg` | Prototipo en GitHub | Archivo PowerPoint dentro de `prototipo/`. |
-| `E06_tablero_github_projects.jpg` | Tablero de gestión | Tareas y estados en GitHub Projects. |
+| E01 | Repositorio principal: carpetas y README | [Abrir captura](Captura%20de%20pantalla%202026-10-21%20214342.png) |
+| E02 | Organización de la documentación en `docs/` | [Abrir captura](Captura%20de%20pantalla%202026-10-21%20214355.png) |
+| E03 | Historial de commits | [Abrir captura](Captura%20de%20pantalla%202026-10-21%20214411.png) |
+| E04 | Diagramas incorporados al repositorio | [Abrir captura](Captura%20de%20pantalla%202026-10-21%20214430.png) |
+| E05 | Archivo PowerPoint en `prototipo/` | [Abrir captura](Captura%20de%20pantalla%202026-10-21%20214457.png) |
+| E06 | Tablero de GitHub Projects | [Abrir captura](Captura%20de%20pantalla%202026-10-21%20214521.png) |
 
-## Incorporación pendiente
+## Uso de las evidencias
 
-1. Descarga el paquete de evidencias preparado y descomprímelo.
-2. En esta carpeta, selecciona **Add file → Upload files**.
-3. Arrastra los seis archivos JPG y confirma con **Commit changes**.
-4. Después de subirlos, actualiza esta sección para que enlace cada archivo por nombre.
+Las capturas documentan la estructura del repositorio, la documentación, el historial de cambios, los diagramas, la ubicación del prototipo y el tablero de gestión.
 
-El PDF de anexo permite consultar las mismas seis capturas en un formato paginado, pero no sustituye el requisito de que los JPG queden almacenados aquí si se desea consultarlos individualmente.
+Una captura adicional con fecha 24 de marzo de 2026 también existe en esta carpeta; no está listada como E01–E06 porque no forma parte de la secuencia anterior.
 
 ## Referencia de una actividad previa
 
 Las capturas de la Actividad 6 anterior se describen en [Evidencias de referencia](../docs/evidencias-referencia-actividad-6.md). Corresponden a otro ejercicio y no deben presentarse como capturas del proyecto actual.
 
-Las capturas de esta carpeta documentan la estructura, los diagramas, el PowerPoint y el tablero. No representan una validación formal con la docente ni prueban mejoras posteriores.
+Las capturas actuales no representan una validación formal con la docente ni prueban mejoras posteriores. La validación continúa como preliminar hasta que se realice la revisión correspondiente.
