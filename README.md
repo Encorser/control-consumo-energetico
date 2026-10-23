@@ -17,16 +17,15 @@ Se propone un sistema para una vivienda familiar hipotética ubicada en Tuzamapa
 - El prototipo visual está diseñado en PowerPoint y consta de cuatro pantallas: panel principal, registro, historial/comparación y análisis/recomendaciones. El archivo ya está incorporado en la carpeta `prototipo/`.
 
 ## Estructura del repositorio
-- `docs/`: [índice de la documentación](docs/README.md), [planteamiento del problema](docs/problema-contexto.md), [requerimientos](docs/requerimientos.md), [objetivos y alcance](docs/objetivos-alcance.md), [componente inteligente](docs/componente-inteligente.md), [prototipo](docs/prototipo.md), [control de versiones](docs/control-versiones.md) y [validación preliminar](docs/validacion.md).
-- `docs/diagramas/`: los [cuatro diagramas en formato SVG](docs/diagramas/README.md) (casos de uso, flujo de actividades, arquitectura conceptual y DFD nivel 1).
-- `docs/gestion/`: [riesgos](docs/gestion/riesgos.md) y [tablero de tareas](docs/gestion/tablero-tareas.md).
+- `docs/`: [índice de la documentación](docs/README.md), planteamiento, requerimientos, objetivos y alcance, componente inteligente, prototipo, control de versiones, gestión de riesgos y [guion de exposición](docs/guion-exposicion.md).
+- `docs/diagramas/`: los [cuatro diagramas en formato SVG](docs/diagramas/README.md).
+- `docs/gestion/`: riesgos y tablero de tareas.
 - `prototipo/`: [PowerPoint de cuatro pantallas](prototipo/(Presentacion)%20prototipo_control_consumo_energetico.pptx).
-- `evidencias/`: [índice de las seis capturas del proyecto actual](evidencias/README.md) y referencia de una actividad previa claramente identificada.
+- `evidencias/`: [seis capturas del proyecto actual](evidencias/README.md) y referencia de una actividad previa identificada por separado.
+- `entrega/`: [índice y lista de archivos finales](entrega/README.md). El documento integrador y la exposición están preparados como archivos descargables; sus binarios aún deben cargarse aquí desde GitHub.
 
 ## Tablero de gestión
-Tablero GitHub Projects: https://github.com/users/Encorser/projects/1/views/1
-
-La lista de tareas se documenta en [docs/gestion/tablero-tareas.md](docs/gestion/tablero-tareas.md). Las tareas se administran mediante incidencias asociadas a este repositorio.
+[GitHub Projects](https://github.com/users/Encorser/projects/1/views/1)
 
 ## Nota académica
-El escenario y los datos de ejemplo del prototipo son hipotéticos. El sistema no consulta ni modifica información real de CFE. Las evidencias de una actividad anterior se conservan como referencia y no sustituyen las capturas del proyecto actual.
+El escenario y los datos de ejemplo del prototipo son hipotéticos. El sistema no consulta ni modifica información real de CFE. La validación formal sigue pendiente de la revisión real del grupo y la docente; sus comentarios y las dos mejoras posteriores no se simulan ni se inventan.
