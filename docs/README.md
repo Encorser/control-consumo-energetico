@@ -20,5 +20,8 @@ Los cuatro diagramas revisados ya están incorporados como archivos SVG vectoria
 - [Evidencias de referencia de Actividad 6 anterior](evidencias-referencia-actividad-6.md): material complementario, no evidencia directa del proyecto actual.
 - [Índice de evidencias del proyecto actual](../evidencias/README.md): las seis capturas E01–E06 ya están presentes en `evidencias/` y enlazadas desde el índice.
 
+## Documento integrador
+Se preparó una versión integradora de 20 páginas con problema y contexto, usuarios, objetivos, requerimientos, alcance, componente inteligente, prototipo, cuatro diagramas, gestión, riesgos, validación preliminar, Git/GitHub, conclusiones y capturas E01–E06. Los archivos Word y PDF están disponibles para descarga en la conversación; aún deben subirse como binarios al repositorio si se quiere mantener una copia allí.
+
 ## Estado
-El prototipo visual y los cuatro diagramas están incorporados en el repositorio. Las capturas del repositorio actual, los diagramas, el archivo PowerPoint y el tablero también están almacenadas en `evidencias/`. La validación formal y las mejoras posteriores continúan pendientes hasta realizar la revisión con el grupo/docente.
+El prototipo visual, los cuatro diagramas y las seis capturas de evidencia del repositorio actual están incorporados en GitHub. La validación formal y las dos mejoras derivadas de retroalimentación continúan pendientes hasta realizar la revisión con el grupo/docente. La exposición final de 5–7 minutos también está pendiente.
