@@ -1,26 +1,30 @@
 # Archivos finales para la entrega
 
-El documento integrador y la presentación se prepararon con formato escolar sencillo: Arial, texto negro, títulos en negrita y tablas básicas.
+El documento integrador y la presentación tienen formato escolar sencillo: Arial, texto negro, títulos en negrita y tablas básicas.
 
-## Archivos que deben colocarse en esta carpeta
+## Archivos finales preparados
 
 | Archivo | Descripción |
 |---|---|
-| documento_integrador_control_consumo_energetico.docx | Documento editable de 20 páginas. |
+| documento_integrador_control_consumo_energetico.docx | Documento editable de 20 páginas con portada institucional. |
 | documento_integrador_control_consumo_energetico.pdf | Versión de lectura e impresión de 20 páginas. |
-| exposicion_control_consumo_energetico.pptx | Presentación oral de 11 diapositivas, pensada para 5–7 minutos. |
-| exposicion_control_consumo_energetico.pdf | Copia de la presentación para consulta. |
-| guion_exposicion_control_consumo_energetico.docx | Guion del expositor, organizado por diapositiva. |
+| exposicion_control_consumo_energetico.pptx | Presentación oral de 11 diapositivas para 5–7 minutos. |
+| exposicion_control_consumo_energetico.pdf | Copia de lectura de la presentación. |
+| guion_exposicion_control_consumo_energetico.docx | Guion de exposición editable, organizado por diapositiva. |
 | guion_exposicion_control_consumo_energetico.pdf | Guion en PDF. |
 
-## Estado y limitaciones
+## Datos de portada
 
-El PowerPoint de prototipo y los cuatro diagramas ya están almacenados en las carpetas correspondientes del repositorio. Los archivos finales del documento y la exposición están preparados en Word, PDF y PowerPoint en el espacio de trabajo, pero todavía deben cargarse como archivos binarios en esta carpeta mediante GitHub: **Add file → Upload files → Commit changes**.
+La portada ya utiliza el logotipo y nombre de la **Universidad Euro Hispanoamericana**, el estudiante **JOSE UZIEL RUIZ LUNA**, Ingeniería en Sistemas Computacionales, Gestión de Proyectos de Software, grupo 302, quinto semestre, modalidad mixta y docente **LI. Nora Isela Zamora Aguilar**. La fecha y ubicación se indican como Xalapa, Veracruz, octubre de 2026.
 
-La portada deja una línea para el nombre del estudiante porque debe completarse con el nombre correcto antes de la entrega.
+## Estado de los archivos en GitHub
 
-La validación se conserva como preliminar. La guía de la materia requiere revisión del grupo y docente y al menos dos mejoras derivadas de comentarios reales. No se han inventado observaciones ni cambios.
+El PowerPoint del prototipo y los cuatro diagramas están guardados en las carpetas correspondientes. Los nuevos documentos finales (DOCX, PDF y PPTX de exposición) ya están preparados para descarga, pero aún deben cargarse como archivos binarios en esta carpeta mediante GitHub: **Add file → Upload files → Commit changes**.
+
+## Validación pendiente
+
+La validación sigue como preliminar. La guía requiere revisión con el grupo y docente y al menos dos mejoras derivadas de comentarios reales. No se han inventado observaciones ni cambios.
 
 ## Material complementario
 
-El guion editable está también disponible en [docs/guion-exposicion.md](../docs/guion-exposicion.md). Las ocho listas individuales de requerimientos se conservan como preliminares y no sustituyen la validación formal.
+El [guion editable en Markdown](../docs/guion-exposicion.md) está también en la carpeta docs. Las ocho listas individuales de requerimientos se conservan como preliminares y no sustituyen la validación formal.
