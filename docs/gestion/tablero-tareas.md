@@ -13,8 +13,8 @@ La guía de la materia limita el tablero a un máximo de 10 tareas. Se definiero
 
 | ID | Tarea | Estado propuesto | Prioridad | Incidencia |
 |---|---|---|---|---|
-| T01 | Definir problema y contexto | In progress | Alta | [#1](https://github.com/Encorser/control-consumo-energetico/issues/1) |
-| T02 | Consolidar requerimientos y componente inteligente | In progress | Alta | [#2](https://github.com/Encorser/control-consumo-energetico/issues/2) |
+| T01 | Definir problema y contexto | Done | Alta | [#1](https://github.com/Encorser/control-consumo-energetico/issues/1) |
+| T02 | Consolidar requerimientos y componente inteligente | Done | Alta | [#2](https://github.com/Encorser/control-consumo-energetico/issues/2) |
 | T03 | Definir objetivos y alcance | Done | Alta | [#3](https://github.com/Encorser/control-consumo-energetico/issues/3) |
 | T04 | Adaptar y revisar los cuatro diagramas | Done | Alta | [#4](https://github.com/Encorser/control-consumo-energetico/issues/4) |
 | T05 | Diseñar prototipo de cuatro pantallas | Done | Alta | [#5](https://github.com/Encorser/control-consumo-energetico/issues/5) |
@@ -35,4 +35,4 @@ La guía de la materia limita el tablero a un máximo de 10 tareas. Se definiero
 ## Tablero GitHub Projects
 Proyecto: https://github.com/users/Encorser/projects/1/views/1
 
-Las incidencias se usan para representar las tareas del proyecto. Si una incidencia nueva no aparece automáticamente en la vista del proyecto, agrégala mediante **Add item** en GitHub Projects.
+Las incidencias T01, T02, T03, T04, T05, T06 y T07 están cerradas por documentación o artefactos completados. T08 permanece abierta mientras se termina de incorporar la entrega. Si la columna de estado de GitHub Projects no se actualiza automáticamente al cerrar una incidencia, mueve la tarjeta correspondiente a **Done** manualmente y deja T08 en **In progress**.
