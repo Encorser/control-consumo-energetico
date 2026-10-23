@@ -20,7 +20,7 @@ La guía de la materia limita el tablero a un máximo de 10 tareas. Se definiero
 | T05 | Diseñar prototipo de cuatro pantallas | Done | Alta | [#5](https://github.com/Encorser/control-consumo-energetico/issues/5) |
 | T06 | Identificar y documentar tres riesgos | Done | Media | [#6](https://github.com/Encorser/control-consumo-energetico/issues/6) |
 | T07 | Organizar repositorio y evidencias | Done | Alta | [#7](https://github.com/Encorser/control-consumo-energetico/issues/7) |
-| T08 | Integrar documento y presentación final | Todo | Alta | [#8](https://github.com/Encorser/control-consumo-energetico/issues/8) |
+| T08 | Integrar documento y presentación final | In progress | Alta | [#8](https://github.com/Encorser/control-consumo-energetico/issues/8) |
 
 ## Criterios de aceptación principales
 - T01: problema, contexto, usuario, necesidad y justificación documentados.
@@ -29,10 +29,10 @@ La guía de la materia limita el tablero a un máximo de 10 tareas. Se definiero
 - T04: casos de uso, actividades, arquitectura conceptual y DFD nivel 1 consistentes.
 - T05: prototipo visual de cuatro pantallas diseñado en PowerPoint; el archivo está incorporado en [`prototipo/`](../prototipo/README.md).
 - T06: exactamente tres riesgos documentados con probabilidad, impacto y medidas preventivas en [riesgos.md](riesgos.md).
-- T07: repositorio organizado, cuatro diagramas incorporados, PowerPoint presente en `prototipo/` y seis capturas del proyecto actual enlazadas desde [evidencias/](../evidencias/README.md). El historial tiene más de cinco commits.
-- T08: documento de 15–20 páginas con evidencias y presentación de 5–7 minutos.
+- T07: repositorio organizado, cuatro diagramas incorporados, PowerPoint presente en `prototipo/` y seis capturas del proyecto actual enlazadas desde [evidencias/](../evidencias/README.md). El historial tiene más de cinco commits. Incidencia #7 cerrada.
+- T08: documento de 20 páginas, portada institucional y presentación de 5–7 minutos preparados. Falta subir DOCX/PDF/PPTX finales como binarios y, tras la revisión real, documentar retroalimentación y dos mejoras. Incidencia #8 sigue abierta.
 
 ## Tablero GitHub Projects
 Proyecto: https://github.com/users/Encorser/projects/1/views/1
 
-Las incidencias T01, T02, T03, T04, T05, T06 y T07 están cerradas por documentación o artefactos completados. T08 permanece abierta mientras se termina de incorporar la entrega. Si la columna de estado de GitHub Projects no se actualiza automáticamente al cerrar una incidencia, mueve la tarjeta correspondiente a **Done** manualmente y deja T08 en **In progress**.
+Las incidencias T01–T07 están cerradas por documentación o artefactos completados. T08 permanece abierta mientras se incorporan los binarios finales y se completa la revisión académica. Si GitHub Projects no actualiza automáticamente las tarjetas al cerrar incidencias, mueve T01–T07 a **Done** y deja T08 en **In progress**.
