@@ -1,7 +1,9 @@
-Archivos finales para subir a GitHub
+Los seis archivos finales ya están cargados en esta carpeta:
+- documento_integrador_control_consumo_energetico.docx
+- documento_integrador_control_consumo_energetico.pdf
+- exposicion_control_consumo_energetico.pptx
+- exposicion_control_consumo_energetico.pdf
+- guion_exposicion_control_consumo_energetico.docx
+- guion_exposicion_control_consumo_energetico.pdf
 
-Desde el navegador, abre https://github.com/Encorser/control-consumo-energetico/tree/main/entrega
-Selecciona Add file > Upload files y sube los seis archivos DOCX/PDF/PPTX de esta carpeta (puedes omitir LEEME.txt si ya no lo necesitas).
-Luego pulsa Commit changes.
-
-El documento tiene portada institucional y formato escolar sencillo. La validación con el grupo/docente no se marca como realizada ni se atribuyen comentarios que aún no se han recibido.
+El documento tiene portada institucional y formato escolar sencillo. La validación con el grupo/docente sigue pendiente; no se atribuyen comentarios ni mejoras que todavía no se han realizado.
