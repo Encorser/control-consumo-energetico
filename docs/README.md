@@ -12,7 +12,7 @@ Proyecto académico: **Control de consumo energético enfocado a una casa habita
 - [6. Control de versiones](control-versiones.md)
 - [Gestión de riesgos](gestion/riesgos.md)
 - [Tablero de tareas](gestion/tablero-tareas.md)
-- [Guion de exposición de 5–7 minutos](guion-exposicion.md)
+- [Guion de exposición](guion-exposicion.md)
 
 ## Diagramas
 Los cuatro diagramas revisados están incorporados como SVG vectoriales en [docs/diagramas](diagramas/README.md): casos de uso, flujo de actividades, arquitectura conceptual y DFD de nivel 1.
@@ -22,9 +22,7 @@ Los cuatro diagramas revisados están incorporados como SVG vectoriales en [docs
 - [Índice de evidencias del proyecto actual](../evidencias/README.md): seis capturas del repositorio actual enlazadas como E01–E06.
 
 ## Documento integrador y exposición
-La versión escolar sencilla del documento integrador está preparada en Word y PDF, con 20 páginas y la portada de la Universidad Euro Hispanoamericana. La portada contiene el nombre JOSE UZIEL RUIZ LUNA, Ingeniería en Sistemas Computacionales, Gestión de Proyectos de Software, grupo 302, quinto semestre, modalidad mixta y docente LI. Nora Isela Zamora Aguilar.
-
-La presentación de exposición está preparada en PowerPoint con 11 diapositivas, logotipo institucional y los mismos datos académicos. El guion está disponible como [Markdown](guion-exposicion.md). El índice y el estado de los archivos se describen en [entrega/README.md](../entrega/README.md). Los binarios del documento y la presentación deben cargarse manualmente a esa carpeta si también se desea almacenarlos dentro de GitHub.
+El documento integrador de 20 páginas, su versión PDF, la exposición PowerPoint de 11 diapositivas, su PDF y el guion en Word/PDF están cargados en [entrega/](../entrega/README.md). La presentación está preparada para una exposición de 5–7 minutos.
 
 ## Estado
-El prototipo visual, los cuatro diagramas y las seis capturas de evidencia del proyecto actual están incorporados en GitHub. La validación formal y las dos mejoras derivadas de retroalimentación siguen pendientes hasta realizar la revisión con el grupo/docente.
+El prototipo, los cuatro diagramas, las seis capturas de evidencia y los archivos finales están incorporados en GitHub. Queda pendiente la revisión real con el grupo/docente y, después de recibir retroalimentación, registrar y aplicar al menos dos mejoras. Las listas individuales de validación continúan siendo preliminares hasta esa revisión.
