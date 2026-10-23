@@ -12,16 +12,17 @@ Proyecto académico: **Control de consumo energético enfocado a una casa habita
 - [6. Control de versiones](control-versiones.md)
 - [Gestión de riesgos](gestion/riesgos.md)
 - [Tablero de tareas](gestion/tablero-tareas.md)
+- [Guion de exposición de 5–7 minutos](guion-exposicion.md)
 
 ## Diagramas
-Los cuatro diagramas revisados ya están incorporados como archivos SVG vectoriales en [docs/diagramas](diagramas/README.md): casos de uso, flujo de actividades, arquitectura conceptual y DFD de nivel 1.
+Los cuatro diagramas revisados están incorporados como SVG vectoriales en [docs/diagramas](diagramas/README.md): casos de uso, flujo de actividades, arquitectura conceptual y DFD de nivel 1.
 
 ## Evidencias
 - [Evidencias de referencia de Actividad 6 anterior](evidencias-referencia-actividad-6.md): material complementario, no evidencia directa del proyecto actual.
-- [Índice de evidencias del proyecto actual](../evidencias/README.md): las seis capturas E01–E06 ya están presentes en `evidencias/` y enlazadas desde el índice.
+- [Índice de evidencias del proyecto actual](../evidencias/README.md): seis capturas del repositorio actual enlazadas como E01–E06.
 
-## Documento integrador
-Se preparó una versión integradora de 20 páginas con problema y contexto, usuarios, objetivos, requerimientos, alcance, componente inteligente, prototipo, cuatro diagramas, gestión, riesgos, validación preliminar, Git/GitHub, conclusiones y capturas E01–E06. Los archivos Word y PDF están disponibles para descarga en la conversación; aún deben subirse como binarios al repositorio si se quiere mantener una copia allí.
+## Documento integrador y exposición
+La versión escolar sencilla del documento integrador está preparada en Word y PDF, con 20 páginas. La presentación oral está preparada en PowerPoint con 11 diapositivas y un guion estimado de 5–7 minutos. El índice de sus archivos y el estado de entrega se documentan en [entrega/README.md](../entrega/README.md). Los binarios del documento y la presentación deben cargarse manualmente a esa carpeta si también se desea almacenarlos dentro de GitHub.
 
 ## Estado
-El prototipo visual, los cuatro diagramas y las seis capturas de evidencia del repositorio actual están incorporados en GitHub. La validación formal y las dos mejoras derivadas de retroalimentación continúan pendientes hasta realizar la revisión con el grupo/docente. La exposición final de 5–7 minutos también está pendiente.
+El prototipo visual, los cuatro diagramas y las seis capturas de evidencia del proyecto actual están incorporados en GitHub. La validación formal y las dos mejoras derivadas de retroalimentación siguen pendientes hasta realizar la revisión con el grupo/docente.
