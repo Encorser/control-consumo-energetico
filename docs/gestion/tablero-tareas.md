@@ -2,12 +2,12 @@
 
 Proyecto: **Control de consumo energético enfocado a una casa habitación**
 
-La guía de la materia limita el tablero a un máximo de 10 tareas. Se definieron 8 tareas y cada una ya está creada como una incidencia (issue) en el repositorio.
+La guía de la materia limita el tablero a un máximo de 10 tareas. Se definieron 8 tareas y cada una está creada como una incidencia (issue) en el repositorio.
 
 ## Estados propuestos
 - **Todo:** pendiente de iniciar.
 - **In progress:** en desarrollo o revisión.
-- **Done:** actividad completada según el avance documentado. Las incidencias T03, T04, T05 y T06 están cerradas.
+- **Done:** actividad completada según el avance documentado.
 
 ## Tareas creadas
 
@@ -29,10 +29,10 @@ La guía de la materia limita el tablero a un máximo de 10 tareas. Se definiero
 - T04: casos de uso, actividades, arquitectura conceptual y DFD nivel 1 consistentes.
 - T05: prototipo visual de cuatro pantallas diseñado en PowerPoint; el archivo está incorporado en [`prototipo/`](../prototipo/README.md).
 - T06: exactamente tres riesgos documentados con probabilidad, impacto y medidas preventivas en [riesgos.md](riesgos.md).
-- T07: repositorio organizado, cuatro diagramas incorporados, PowerPoint presente en `prototipo/` y seis capturas del proyecto actual enlazadas desde [evidencias/](../evidencias/README.md). El historial tiene más de cinco commits. Incidencia #7 cerrada.
-- T08: documento de 20 páginas, portada institucional y presentación de 5–7 minutos preparados. Falta subir DOCX/PDF/PPTX finales como binarios y, tras la revisión real, documentar retroalimentación y dos mejoras. Incidencia #8 sigue abierta.
+- T07: repositorio organizado, cuatro diagramas incorporados, PowerPoint presente en `prototipo/` y seis capturas del proyecto actual enlazadas desde [evidencias/](../evidencias/README.md). El historial tiene más de cinco commits.
+- T08: documento de 20 páginas con portada, Word/PDF, presentación PowerPoint/PDF y guion Word/PDF almacenados en [entrega/](../entrega/README.md). Falta presentar el proyecto en la revisión académica, documentar observaciones reales y aplicar al menos dos mejoras.
 
 ## Tablero GitHub Projects
 Proyecto: https://github.com/users/Encorser/projects/1/views/1
 
-Las incidencias T01–T07 están cerradas por documentación o artefactos completados. T08 permanece abierta mientras se incorporan los binarios finales y se completa la revisión académica. Si GitHub Projects no actualiza automáticamente las tarjetas al cerrar incidencias, mueve T01–T07 a **Done** y deja T08 en **In progress**.
+Las incidencias T01–T07 están cerradas; T08 permanece abierta porque la validación y las dos mejoras posteriores siguen pendientes. Si el estado de una tarjeta no se actualiza al cerrar su incidencia, sincroniza manualmente las tarjetas T01–T07 a **Done** y deja T08 en **In progress**.
