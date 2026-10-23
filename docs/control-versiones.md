@@ -31,9 +31,10 @@ El historial completo se puede consultar en [Commits del repositorio](https://gi
 ## Estado de artefactos
 - **Diagramas:** cuatro SVG incorporados en [docs/diagramas](diagramas/README.md).
 - **Prototipo:** PowerPoint de cuatro pantallas incorporado en [prototipo/](../prototipo/README.md).
-- **Capturas de evidencia:** seis capturas del repositorio actual en [evidencias/](../evidencias/README.md).
-- **Guion de exposición:** ya está incorporado como texto en [guion-exposicion.md](guion-exposicion.md).
-- **Documento integrador y presentación final:** los archivos Word, PDF y PowerPoint están preparados para la entrega y descargables en la conversación. Se creó [entrega/README.md](../entrega/README.md) como índice; los binarios finales todavía deben cargarse manualmente en esa carpeta si deben quedar alojados en GitHub.
+- **Capturas:** seis evidencias del repositorio actual en [evidencias/](../evidencias/README.md).
+- **Documento integrador:** Word y PDF cargados en [entrega/](../entrega/README.md).
+- **Exposición:** PowerPoint y PDF cargados en [entrega/](../entrega/README.md).
+- **Guion:** Word y PDF cargados en [entrega/](../entrega/README.md); versión Markdown en [guion-exposicion.md](guion-exposicion.md).
 
 ## Criterio para futuros cambios
 Cada cambio significativo deberá guardarse con un mensaje de commit claro que describa lo modificado.
