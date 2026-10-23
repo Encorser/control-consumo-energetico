@@ -20,12 +20,12 @@ Se propone un sistema para una vivienda familiar hipotética ubicada en Tuzamapa
 - `docs/`: [índice de la documentación](docs/README.md), planteamiento, requerimientos, objetivos y alcance, componente inteligente, prototipo, control de versiones, gestión de riesgos y [guion de exposición](docs/guion-exposicion.md).
 - `docs/diagramas/`: los [cuatro diagramas en formato SVG](docs/diagramas/README.md).
 - `docs/gestion/`: riesgos y tablero de tareas.
-- `prototipo/`: [PowerPoint de cuatro pantallas](prototipo/(Presentacion)%20prototipo_control_consumo_energetico.pptx).
-- `evidencias/`: [seis capturas del proyecto actual](evidencias/README.md) y referencia de una actividad previa identificada por separado.
-- `entrega/`: [índice y lista de archivos finales](entrega/README.md). El documento integrador y la exposición están preparados como archivos descargables; sus binarios aún deben cargarse aquí desde GitHub.
+- `prototipo/`: [PowerPoint del prototipo de cuatro pantallas](prototipo/(Presentacion)%20prototipo_control_consumo_energetico.pptx).
+- `evidencias/`: [seis capturas del proyecto actual](evidencias/README.md) y material de referencia de una actividad anterior debidamente identificado.
+- `entrega/`: [documento integrador, exposición y guion finales](entrega/README.md) en Word, PDF y PowerPoint.
 
 ## Tablero de gestión
 [GitHub Projects](https://github.com/users/Encorser/projects/1/views/1)
 
 ## Nota académica
-El escenario y los datos de ejemplo del prototipo son hipotéticos. El sistema no consulta ni modifica información real de CFE. La validación formal sigue pendiente de la revisión real del grupo y la docente; sus comentarios y las dos mejoras posteriores no se simulan ni se inventan.
+El escenario y los datos de ejemplo del prototipo son hipotéticos. El sistema no consulta ni modifica información real de CFE. La validación formal debe documentar la revisión real del grupo y la docente, así como las dos mejoras que se realicen después de esa revisión.
