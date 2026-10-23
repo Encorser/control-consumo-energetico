@@ -22,7 +22,9 @@ Los cuatro diagramas revisados están incorporados como SVG vectoriales en [docs
 - [Índice de evidencias del proyecto actual](../evidencias/README.md): seis capturas del repositorio actual enlazadas como E01–E06.
 
 ## Documento integrador y exposición
-La versión escolar sencilla del documento integrador está preparada en Word y PDF, con 20 páginas. La presentación oral está preparada en PowerPoint con 11 diapositivas y un guion estimado de 5–7 minutos. El índice de sus archivos y el estado de entrega se documentan en [entrega/README.md](../entrega/README.md). Los binarios del documento y la presentación deben cargarse manualmente a esa carpeta si también se desea almacenarlos dentro de GitHub.
+La versión escolar sencilla del documento integrador está preparada en Word y PDF, con 20 páginas y la portada de la Universidad Euro Hispanoamericana. La portada contiene el nombre JOSE UZIEL RUIZ LUNA, Ingeniería en Sistemas Computacionales, Gestión de Proyectos de Software, grupo 302, quinto semestre, modalidad mixta y docente LI. Nora Isela Zamora Aguilar.
+
+La presentación de exposición está preparada en PowerPoint con 11 diapositivas, logotipo institucional y los mismos datos académicos. El guion está disponible como [Markdown](guion-exposicion.md). El índice y el estado de los archivos se describen en [entrega/README.md](../entrega/README.md). Los binarios del documento y la presentación deben cargarse manualmente a esa carpeta si también se desea almacenarlos dentro de GitHub.
 
 ## Estado
 El prototipo visual, los cuatro diagramas y las seis capturas de evidencia del proyecto actual están incorporados en GitHub. La validación formal y las dos mejoras derivadas de retroalimentación siguen pendientes hasta realizar la revisión con el grupo/docente.
