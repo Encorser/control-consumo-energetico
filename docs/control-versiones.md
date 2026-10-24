@@ -36,5 +36,14 @@ El historial completo se puede consultar en [Commits del repositorio](https://gi
 - **Exposición:** PowerPoint y PDF cargados en [entrega/](../entrega/README.md).
 - **Guion:** Word y PDF cargados en [entrega/](../entrega/README.md); versión Markdown en [guion-exposicion.md](guion-exposicion.md).
 
+## Cambios recientes relacionados con las mejoras
+
+- Revisión de requerimientos de registro y comparación: [commit 7c3443d](https://github.com/Encorser/control-consumo-energetico/commit/7c3443d25268f7c71b4917d0e727947e3489301f).
+- Reglas del componente inteligente: [commit 9d2a0e1](https://github.com/Encorser/control-consumo-energetico/commit/9d2a0e1f6794d708a991c679338122c1f216fc9a).
+- Prototipo y estados límite documentados: [commit e25c05b](https://github.com/Encorser/control-consumo-energetico/commit/e25c05b73352e9849ea5507bdd0d0bad1364f2b2).
+- Bitácora y casos de aceptación: [bitácora](../evidencias/mejoras-aplicadas.md) y [casos de aceptación](pruebas-aceptacion.md).
+
+Estas actualizaciones documentan mejoras en los artefactos de diseño. La revisión externa de docente o compañeros continúa pendiente.
+
 ## Criterio para futuros cambios
 Cada cambio significativo deberá guardarse con un mensaje de commit claro que describa lo modificado.
