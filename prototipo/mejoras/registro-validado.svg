@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<defs>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#18324b" flood-opacity=".08"/></filter>
+  <style>
+    .ui{font-family:Arial,Helvetica,sans-serif;fill:#18324b}.muted{fill:#708196}.small{font-size:15px}.label{font-size:16px;font-weight:700}.body{font-size:18px}.title{font-size:30px;font-weight:700}.field{font-size:18px}.nav{font-size:18px}.green{fill:#237b63}.red{fill:#b83238}
+  </style>
+</defs>
+<rect width="1440" height="900" fill="#f3f6fa"/>
+<rect width="1440" height="88" fill="#fff"/>
+<path d="M0 87.5H1440" stroke="#e2e8f0"/>
+<rect x="34" y="20" width="48" height="48" rx="14" fill="#237b63"/>
+<path d="M62 27L45 48H56L52 61L70 39H58Z" fill="#fff"/>
+<text x="98" y="43" class="ui" font-size="20" font-weight="700">Control de consumo energético</text>
+<text x="98" y="65" class="ui muted small">Casa habitación · prototipo conceptual</text>
+<circle cx="1360" cy="44" r="19" fill="#e7f2ed"/><text x="1360" y="50" text-anchor="middle" class="ui green" font-size="16" font-weight="700">U</text>
+<rect y="88" width="260" height="812" fill="#fff"/>
+<path d="M259.5 88V900" stroke="#e2e8f0"/>
+<text x="28" y="132" class="ui muted small" font-weight="700">MENÚ PRINCIPAL</text>
+<rect x="15" y="153" width="230" height="51" rx="10" fill="#e8f3ee"/>
+<circle cx="43" cy="178" r="9" fill="#237b63"/><text x="65" y="184" class="ui green nav" font-weight="700">Registrar recibo</text>
+<circle cx="43" cy="239" r="8" fill="#9aa8b8"/><text x="65" y="245" class="ui nav">Panel principal</text>
+<circle cx="43" cy="300" r="8" fill="#9aa8b8"/><text x="65" y="306" class="ui nav">Historial</text>
+<circle cx="43" cy="361" r="8" fill="#9aa8b8"/><text x="65" y="367" class="ui nav">Análisis</text>
+<text x="300" y="139" class="ui muted small">INICIO / REGISTRO DE RECIBO</text>
+<text x="300" y="183" class="ui title">Registrar recibo de CFE</text>
+<text x="300" y="216" class="ui muted body">Ingresa los datos tal como aparecen en tu recibo.</text>
+<rect x="300" y="245" width="770" height="590" rx="18" fill="#fff" filter="url(#shadow)"/>
+<text x="336" y="289" class="ui" font-size="22" font-weight="700">Datos del periodo facturado</text>
+<text x="336" y="326" class="ui label">Fecha inicial *</text>
+<rect x="336" y="341" width="320" height="58" rx="8" fill="#fff" stroke="#d4dce6" stroke-width="2"/>
+<text x="356" y="377" class="ui field">05/12/2026</text>
+<text x="684" y="326" class="ui label">Fecha final *</text>
+<rect x="684" y="341" width="344" height="58" rx="8" fill="#fff" stroke="#c4454b" stroke-width="2"/>
+<text x="704" y="377" class="ui field">03/12/2026</text>
+<path d="M1001 363l8 8m0-8l-8 8" stroke="#c4454b" stroke-width="2"/>
+<text x="684" y="424" class="ui red small">La fecha final debe ser igual o posterior a la inicial.</text>
+<text x="336" y="475" class="ui label">Consumo total (kWh) *</text>
+<rect x="336" y="490" width="320" height="58" rx="8" fill="#fff" stroke="#d4dce6" stroke-width="2"/>
+<text x="356" y="526" class="ui field">420</text>
+<text x="684" y="475" class="ui label">Importe del recibo (MXN) *</text>
+<rect x="684" y="490" width="344" height="58" rx="8" fill="#fff" stroke="#d4dce6" stroke-width="2"/>
+<text x="704" y="526" class="ui field">$1,050.00</text>
+<text x="336" y="583" class="ui muted small">* Campo obligatorio. El consumo y el importe deben ser números iguales o mayores que cero.</text>
+<rect x="336" y="622" width="690" height="52" rx="9" fill="#fff3f3" stroke="#f0c5c7"/>
+<circle cx="360" cy="648" r="9" fill="#c4454b"/><text x="360" y="653" text-anchor="middle" fill="#fff" font-family="Arial" font-size="13" font-weight="700">!</text>
+<text x="380" y="645" class="ui red small" font-weight="700">No se puede guardar todavía.</text>
+<text x="380" y="664" class="ui red small">Corrige la fecha final y vuelve a revisar el formulario.</text>
+<rect x="336" y="715" width="176" height="56" rx="10" fill="#aab5c2"/>
+<text x="424" y="749" text-anchor="middle" fill="#fff" font-family="Arial" font-size="17" font-weight="700">Guardar recibo</text>
+<text x="540" y="749" class="ui muted body">Guardar deshabilitado hasta corregir errores</text>
+<rect x="1092" y="245" width="312" height="360" rx="18" fill="#fff" filter="url(#shadow)"/>
+<text x="1120" y="288" class="ui" font-size="21" font-weight="700">Antes de guardar</text>
+<circle cx="1129" cy="333" r="10" fill="#e8f3ee"/><path d="M1124 333l4 4 7-8" fill="none" stroke="#237b63" stroke-width="2.5"/>
+<text x="1150" y="339" class="ui body">Campos completos</text>
+<circle cx="1129" cy="379" r="10" fill="#fff0f0"/><text x="1129" y="384" text-anchor="middle" class="ui red small" font-weight="700">!</text>
+<text x="1150" y="385" class="ui body">Fechas en orden</text>
+<circle cx="1129" cy="425" r="10" fill="#e8f3ee"/><path d="M1124 425l4 4 7-8" fill="none" stroke="#237b63" stroke-width="2.5"/>
+<text x="1150" y="431" class="ui body">Consumo numérico ≥ 0</text>
+<circle cx="1129" cy="471" r="10" fill="#e8f3ee"/><path d="M1124 471l4 4 7-8" fill="none" stroke="#237b63" stroke-width="2.5"/>
+<text x="1150" y="477" class="ui body">Importe numérico ≥ 0</text>
+<path d="M1120 508H1374" stroke="#e2e8f0"/>
+<text x="1120" y="538" class="ui muted small">Si el periodo coincide o se traslapa</text>
+<text x="1120" y="559" class="ui muted small">con otro recibo, aparecerá una</text>
+<text x="1120" y="580" class="ui muted small">advertencia antes de continuar.</text>
+<text x="300" y="871" class="ui muted small">MAQUETA DE DISEÑO · DATOS ILUSTRATIVOS · NO ES UNA APLICACIÓN FUNCIONAL</text>
+</svg>
