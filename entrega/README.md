@@ -17,10 +17,12 @@ Los archivos finales ya están cargados en esta carpeta de GitHub. El formato de
 
 La portada utiliza el logotipo y nombre de la **Universidad Euro Hispanoamericana**, estudiante **JOSE UZIEL RUIZ LUNA**, Ingeniería en Sistemas Computacionales, Gestión de Proyectos de Software, grupo 302, quinto semestre, modalidad mixta y docente **LI. Nora Isela Zamora Aguilar**. La ubicación y fecha indicadas son Xalapa, Veracruz, octubre de 2026.
 
-## Pendientes académicos
+## Actualización de mejoras y evidencia
 
-La validación se mantiene como preliminar hasta presentar el proyecto en la sesión con el grupo/docente. Después de recibir observaciones reales, deben registrarse los comentarios y aplicarse al menos dos mejoras antes de la entrega definitiva. No se simulan observaciones ni cambios.
+El anexo [Mejoras aplicadas](ANEXO_Mejoras_Aplicadas.md) registra dos mejoras incorporadas en la especificación y en maquetas conceptuales: validación detallada de recibos y reglas más claras para comparar periodos. Incluye vínculos a los criterios de aceptación y a las evidencias E07–E10.
+
+Los documentos Word/PDF y la presentación de esta carpeta se conservan como la entrega preparada previamente. El anexo complementa esos archivos con el estado actualizado del diseño; no los reemplaza automáticamente.
 
 ## Material complementario
 
-El [guion editable en Markdown](../docs/guion-exposicion.md) está también en la carpeta docs. Las ocho listas individuales de requerimientos se conservan como preliminares y no sustituyen la validación formal.
+El [guion editable en Markdown](../docs/guion-exposicion.md) está también en la carpeta docs. Las ocho listas individuales de requerimientos se conservan como preliminares y no sustituyen la validación formal. La revisión externa real con docente o compañeros sigue pendiente; no se registran comentarios ni aprobaciones que no hayan ocurrido.
