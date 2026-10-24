@@ -1,58 +1,50 @@
 # 10. Validación del proyecto
 
 **Proyecto:** Control de consumo energético enfocado a una casa habitación  
-**Estado:** Preliminar; pendiente de revisión grupal y del docente  
-**Tipo de validación:** Revisión documental del problema, requerimientos, prototipo, componente inteligente y alcance.
+**Estado:** dos mejoras incorporadas a la documentación y al prototipo conceptual; validación externa pendiente  
+**Tipo de revisión realizada:** revisión interna del diseño y definición de criterios de aceptación. No equivale a aprobación de la docente ni a ejecución de pruebas de una aplicación funcional.
 
-## 10.1 Objetivo
+## 10.1. Objetivo
 
-Comprobar que el problema esté descrito con claridad, que los requerimientos sean comprensibles, que las pantallas del prototipo correspondan a las funcionalidades definidas, que la regla de análisis tenga sentido y que el alcance sea viable para el proyecto académico.
+Revisar que el problema, los requerimientos, el flujo del prototipo y la regla de análisis sean claros y coherentes. La revisión interna se utilizó para concretar dos áreas de mejora; aún se requiere la revisión con docente o compañeros para obtener retroalimentación externa.
 
-## 10.2 Estado actual
+## 10.2. Estado previo y actual
 
-Se prepararon ocho listas individuales a partir del formato de validación compartido para revisar los tres requerimientos funcionales (RF01–RF03), dos no funcionales (RNF01–RNF02) y tres de datos (RD01–RD03). Cada lista incluye los criterios de claridad, consistencia, no ambigüedad, verificabilidad y factibilidad técnica, además del resultado por criterio, dictamen y comentarios.
+Las listas individuales preparadas para los tres requerimientos funcionales (RF01–RF03), dos no funcionales (RNF01–RNF02) y tres de datos (RD01–RD03) continúan siendo preliminares. Se actualizaron la especificación de requerimientos, la lógica del componente inteligente y el diseño conceptual de pantallas para aclarar las validaciones y los casos límite.
 
-**Estas listas son preliminares.** Las marcas y observaciones representan una revisión inicial del texto y deben confirmarse o corregirse con la evidencia del proyecto. No sustituyen la revisión del grupo ni la del docente, y no deben presentarse como una aprobación formal o como pruebas ejecutadas.
+Las mejoras se documentan como cambios realmente incorporados en los artefactos de diseño. No se presentarán como comentarios recibidos de terceros ni como pruebas de software ejecutadas.
 
-## 10.3 Aspectos por validar
+## 10.3. Mejoras aplicadas
 
-| Aspecto | Evidencia para la revisión | Estado |
-|---|---|---|
-| Claridad del problema | Documento de problema y contexto | Pendiente de revisión grupal/docente |
-| Comprensión de los requerimientos | Requerimientos RF01–RF03, RNF01–RNF02 y RD01–RD03; listas individuales | Preliminar |
-| Correspondencia entre prototipo y requerimientos | Cuatro pantallas: panel principal, registro de recibo, historial/comparación y análisis/recomendaciones | Pendiente de revisión grupal/docente |
-| Sentido de la función inteligente | Regla de comparación del consumo total en kWh contra el periodo anterior | Pendiente de revisión grupal/docente |
-| Viabilidad del alcance | Un tipo de usuario, tres funcionalidades principales, hasta tres grupos de datos y prototipo visual de cuatro pantallas | Pendiente de revisión grupal/docente |
-
-## 10.4 Procedimiento propuesto
-
-1. Presentar el problema, los requerimientos y las cuatro pantallas del prototipo al grupo y al docente.
-2. Revisar cada requerimiento con su lista individual. Marcar Sí o No y anotar observaciones justificadas.
-3. Registrar comentarios sobre claridad del problema, correspondencia entre requerimientos y pantallas, sentido de la regla de análisis y viabilidad del alcance.
-4. Ajustar la documentación y el prototipo según los comentarios recibidos.
-5. Documentar al menos dos mejoras derivadas de la revisión, indicando qué cambió y por qué.
-6. Guardar las evidencias disponibles de la revisión y los cambios en el repositorio.
-
-## 10.5 Posibles puntos de mejora por revisar
-
-Los siguientes puntos son candidatos para comprobar durante la revisión; **no cuentan todavía como mejoras realizadas**.
-
-- Precisar los mensajes y validaciones cuando falten datos de un recibo o las fechas/valores ingresados sean inválidos.
-- Especificar ejemplos de aceptación para la comparación entre dos periodos y para el caso en que no exista un periodo anterior.
-
-Se confirmará si estos puntos son pertinentes a partir de la retroalimentación real. Las mejoras definitivas deberán describirse después de la revisión.
-
-## 10.6 Registro de retroalimentación y cambios
-
-| Fecha | Persona o grupo revisor | Observación recibida | Cambio realizado | Evidencia |
+| ID | Área de mejora identificada en la revisión interna | Cambio incorporado | Motivo | Evidencia |
 |---|---|---|---|---|
-| Pendiente | Pendiente de revisión | Pendiente | Pendiente | Pendiente |
+| M01 | Los criterios de captura eran generales y podían dejar dudas sobre valores y fechas inválidos. | RF01 y RNF01 especifican campos obligatorios, validación de fechas, consumo e importe numéricos no negativos, mensajes por campo y bloqueo del guardado ante errores. Se añadió advertencia de traslape de periodos. | Reducir errores de captura y hacer el requisito verificable. | [Requerimientos](requerimientos.md), [maqueta de registro](../prototipo/mejoras/registro-validado.svg), [pruebas de aceptación](pruebas-aceptacion.md). |
+| M02 | La regla de comparación no definía con suficiente precisión los periodos superpuestos ni la diferencia de duración. | RF02 y la regla de análisis impiden concluir con periodos traslapados, requieren datos válidos, muestran la duración de cada periodo y advierten si es distinta. Se mantienen los totales en kWh sin llamarlos consumo diario. | Evitar comparaciones ambiguas o interpretaciones incorrectas de periodos de diferente duración. | [Componente inteligente](componente-inteligente.md), [maqueta de comparación](../prototipo/mejoras/comparacion-periodos.svg), [pruebas de aceptación](pruebas-aceptacion.md). |
 
-Este registro debe actualizarse después de la revisión real. No se inventarán participantes, comentarios, resultados ni fechas.
+## 10.4. Aspectos todavía pendientes de validación externa
 
-## 10.7 Evidencias pendientes
+| Aspecto | Evidencia que debe obtenerse | Estado |
+|---|---|---|
+| Comprensión del problema y usuario | Comentarios reales de docente o compañeros | Pendiente |
+| Comprensión y viabilidad de requerimientos | Revisión de RF01–RF03, RNF01–RNF02 y RD01–RD03 | Pendiente |
+| Correspondencia de prototipo y lógica | Revisión de las cuatro pantallas base y las maquetas complementarias | Pendiente |
+| Adecuación de las dos mejoras | Confirmación o corrección a partir de comentarios reales | Pendiente |
+| Exposición individual | Presentación, justificación de decisiones y respuestas a preguntas | Pendiente de realizar |
 
-- Listas de validación con marcas y observaciones confirmadas.
-- Capturas o registro de la retroalimentación del grupo/docente, de acuerdo con lo que permita la actividad.
-- Evidencia de al menos dos mejoras efectivamente aplicadas.
-- Versión actualizada del prototipo y de los documentos involucrados.
+## 10.5. Procedimiento para completar la validación
+
+1. Presentar el problema, requerimientos, cuatro pantallas y dos maquetas complementarias al grupo y/o docente.
+2. Registrar quién revisó el proyecto, la fecha y las observaciones textuales o resumidas fielmente.
+3. Preguntar si las validaciones de captura son suficientes y si las reglas para periodos superpuestos o de distinta duración son comprensibles.
+4. Ajustar los artefactos si la retroalimentación señala cambios adicionales.
+5. Actualizar esta sección y adjuntar la evidencia permitida por la actividad.
+
+## 10.6. Registro de retroalimentación externa
+
+| Fecha | Persona o grupo revisor | Observación recibida | Cambio derivado | Evidencia |
+|---|---|---|---|---|
+| Pendiente | Pendiente | No se ha recibido/registrado todavía | Pendiente de confirmar | Pendiente |
+
+## 10.7. Alcance de las pruebas de aceptación
+
+Los escenarios de [pruebas de aceptación](pruebas-aceptacion.md) describen entradas y resultados esperados para comprobar la lógica. Al tratarse de un prototipo conceptual, no se afirma que un sistema de software ejecutable haya superado pruebas. La validación externa sigue pendiente.
