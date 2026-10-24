@@ -19,8 +19,8 @@ La guía de la materia limita el tablero a un máximo de 10 tareas. Se definiero
 | T04 | Adaptar y revisar los cuatro diagramas | Done | Alta | [#4](https://github.com/Encorser/control-consumo-energetico/issues/4) |
 | T05 | Diseñar prototipo de cuatro pantallas y revisar estados límite | Done (diseño) | Alta | [#5](https://github.com/Encorser/control-consumo-energetico/issues/5) |
 | T06 | Identificar y documentar tres riesgos | Done | Media | [#6](https://github.com/Encorser/control-consumo-energetico/issues/6) |
-| T07 | Organizar repositorio y evidencias | In progress (actualizar tablero real) | Alta | [#7](https://github.com/Encorser/control-consumo-energetico/issues/7) |
-| T08 | Integrar documento y presentación final y completar validación | In progress | Alta | [#8](https://github.com/Encorser/control-consumo-energetico/issues/8) |
+| T07 | Organizar repositorio y evidencias | Done | Alta | [#7](https://github.com/Encorser/control-consumo-energetico/issues/7) |
+| T08 | Integrar documento y presentación final y completar validación externa | In progress | Alta | [#8](https://github.com/Encorser/control-consumo-energetico/issues/8) |
 
 ## Criterios de aceptación principales
 
@@ -31,7 +31,7 @@ La guía de la materia limita el tablero a un máximo de 10 tareas. Se definiero
 - T05: prototipo base de cuatro pantallas y maquetas complementarias para validación de captura y comparación de periodos. Las maquetas describen el diseño; no son un producto funcional.
 - T06: tres riesgos documentados con probabilidad, impacto y medidas preventivas en [riesgos.md](riesgos.md).
 - T07: repositorio organizado, diagramas, PowerPoint y evidencias documentales en [evidencias/](../../evidencias/README.md).
-- T08: entregables finales integrados, dos mejoras del diseño aplicadas y documentadas. Falta la revisión académica externa, su retroalimentación real y cualquier ajuste adicional que esa revisión produzca.
+- T08: entregables finales integrados; dos mejoras de diseño aplicadas y documentadas en la bitácora, maquetas SVG y casos de aceptación. Falta la revisión académica externa, su retroalimentación real y cualquier ajuste adicional que esa revisión produzca.
 
 ## Tablero GitHub Projects
 
